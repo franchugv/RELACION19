@@ -20,6 +20,8 @@
 
             // ENTRADA
 
+            Interfaz.MenuTipoVehiculo(ListaVehiculos);
+
             // PROCESO
 
             // SALIDA
